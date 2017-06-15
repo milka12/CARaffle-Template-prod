@@ -13,7 +13,7 @@ interface Pages {
 class PageRunner {
     private $TO_WIN = "ENTER OUR RAFFLE TO WIN!";
     private $WINNERS = "RAFFLE WINNERS";
-    private $DEMO = "CDBU Modern Software Factory Demo";
+    private $DEMO = "CDBU Modern Software Factory Demo For The Central Region";
     private $BUILD = "40";
 
     private $page;
