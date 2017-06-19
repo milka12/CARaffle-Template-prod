@@ -69,7 +69,7 @@ $count = file_exists($dataFileName) ? COUNT(FILE($dataFileName)) : 0;
 </script>
 
 <div class="pure-u-1 centered-text">
-    <h3>1. GO TO <a href="http://raffle.cdbu.io">http://raffle.cdbu.io</a></h3>
+    <h3>1. GO TO <a href="http://nacentral.cdbu.io">http://nacentral.cdbu.io</a></h3>
     <h3>2. SUBMIT YOUR FULL NAME</h3>
     <h3>3. SHABANG! YOU'RE IN THE GAME!</h3>
 
